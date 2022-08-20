@@ -1,0 +1,128 @@
+{
+  "id": "3570901",
+  "name": "cmade-icon",
+  "font_family": "cmade-icon",
+  "css_prefix_text": "",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12240028",
+      "name": "闪电",
+      "font_class": "vite",
+      "unicode": "e6c6",
+      "unicode_decimal": 59078
+    },
+    {
+      "icon_id": "1607844",
+      "name": "文档",
+      "font_class": "document",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "6496025",
+      "name": "Webpack",
+      "font_class": "webpack",
+      "unicode": "e799",
+      "unicode_decimal": 59289
+    },
+    {
+      "icon_id": "6496026",
+      "name": "Vue",
+      "font_class": "vue",
+      "unicode": "e79a",
+      "unicode_decimal": 59290
+    },
+    {
+      "icon_id": "13304114",
+      "name": "typescript",
+      "font_class": "typescript",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "18223809",
+      "name": "匡威",
+      "font_class": "converse",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "82754",
+      "name": "删除2",
+      "font_class": "delete",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "145502",
+      "name": "错误提示",
+      "font_class": "error",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "997408",
+      "name": "警告",
+      "font_class": "warning",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "145497",
+      "name": "下载",
+      "font_class": "download",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "666885",
+      "name": "设置",
+      "font_class": "setting",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "5301920",
+      "name": "加载",
+      "font_class": "loading",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "624530",
+      "name": "购物车",
+      "font_class": "shopping",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "14732",
+      "name": "向下",
+      "font_class": "down",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1727541",
+      "name": "308上一页、后退、返回",
+      "font_class": "left",
+      "unicode": "e8ef",
+      "unicode_decimal": 59631
+    },
+    {
+      "icon_id": "1727542",
+      "name": "309下一页、前进、查看更多",
+      "font_class": "right",
+      "unicode": "e8f1",
+      "unicode_decimal": 59633
+    },
+    {
+      "icon_id": "6337455",
+      "name": "点赞",
+      "font_class": "like",
+      "unicode": "ec7f",
+      "unicode_decimal": 60543
+    }
+  ]
+}

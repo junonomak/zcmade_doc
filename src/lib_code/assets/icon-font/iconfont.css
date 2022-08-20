@@ -1,0 +1,85 @@
+@font-face {
+  font-family: "cmade-icon"; /* Project id 3570901 */
+  /* Color fonts */
+  src: 
+       url('iconfont.woff2?t=1660978145912') format('woff2'),
+       url('iconfont.woff?t=1660978145912') format('woff'),
+       url('iconfont.ttf?t=1660978145912') format('truetype');
+}
+
+.cmade-icon {
+  font-family: "cmade-icon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.vite:before {
+  content: "\e6c6";
+}
+
+.document:before {
+  content: "\e66a";
+}
+
+.webpack:before {
+  content: "\e799";
+}
+
+.vue:before {
+  content: "\e79a";
+}
+
+.typescript:before {
+  content: "\e6a3";
+}
+
+.converse:before {
+  content: "\e649";
+}
+
+.delete:before {
+  content: "\e601";
+}
+
+.error:before {
+  content: "\e66c";
+}
+
+.warning:before {
+  content: "\e620";
+}
+
+.download:before {
+  content: "\e668";
+}
+
+.setting:before {
+  content: "\e68f";
+}
+
+.loading:before {
+  content: "\e629";
+}
+
+.shopping:before {
+  content: "\e63f";
+}
+
+.down:before {
+  content: "\e600";
+}
+
+.left:before {
+  content: "\e8ef";
+}
+
+.right:before {
+  content: "\e8f1";
+}
+
+.like:before {
+  content: "\ec7f";
+}
+
