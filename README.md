@@ -1,8 +1,8 @@
-# 这是一个基于vue3的ui组件库
-
-# 开始
+# 介绍
+这是一个基于vue3打造的ui组件库
+## 开始
 ```
-npm install
+npm install zcmade_ui
 ```
 在项目的main.js文件中:
 ```
@@ -18,6 +18,5 @@ import 'zcmade_ui/icon-font/iconfont/css';
 import { cButton } from 'zcmade_ui'
 </script>
 ```
-组件具体使用详情请看[文档](http://112.74.89.251/)
-
-##作者:林智聪
+# 组件具体使用详情请看[文档](http://112.74.89.251/)
+作者: 林智聪
